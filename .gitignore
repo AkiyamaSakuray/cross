@@ -1,0 +1,40 @@
+# Flutter and Dart caches
+**/.dart_tool/
+**/.packages
+**/.pub/
+**/build/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+# Local tools and temporary files
+**/.idea/
+**/.vscode/
+**/.superpowers/
+**/.worktrees/
+**/.playwright-cli/
+**/.report-build/
+**/qa/
+**/artifacts/
+**/__pycache__/
+*.log
+*.iml
+*.pyc
+*.zip
+~$*
+.DS_Store
+Thumbs.db
+# Local configuration and signing secrets
+**/.env
+**/.env.*
+**/local.properties
+**/key.properties
+*.jks
+*.keystore
+# Generated platform caches
+**/ephemeral/
+**/.gradle/
+**/.cxx/
+**/Pods/
+**/.symlinks/
+**/.plugin_symlinks/
+**/DerivedData/
+**/xcuserdata/

@@ -1,0 +1,15 @@
+.dart_tool/
+.idea/
+.packages
+.pub/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.superpowers/
+.worktrees/
+.playwright-cli/
+output/
+.report-build/
+artifacts/report-render-*/
+*.iml
+*.log
